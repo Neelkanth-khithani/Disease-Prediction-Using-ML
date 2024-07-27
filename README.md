@@ -1,4 +1,4 @@
-# Disease Prediction Using Machine Learning
+# Predictive Healthcare Insights: Machine Learning Approaches for Disease Diagnosis
 
 ## Description
 
